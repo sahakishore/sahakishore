@@ -21,7 +21,7 @@ Full-Stack Engineer building production-grade web applications with React, TypeS
 
 - **68%** bundle size reduction on enterprise app (2.5 MB → 800 KB)
 - **66%** faster Time to Interactive (3.5s → 1.2s)
-- **1,000+** internal users on Siemens platform
+- **9,000+** internal users on Siemens platform
 - **39,600** LOC TypeScript monorepo (NeoTrader)
 - **13** production projects shipped
 
